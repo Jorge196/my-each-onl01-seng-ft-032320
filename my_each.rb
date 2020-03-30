@@ -7,7 +7,7 @@ def my_each(array) # put argument(s) here
   array
 end
 
-yielding do 
+yielding do
   puts "hi"
-end 
+end
   
